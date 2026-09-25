@@ -3107,6 +3107,33 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "OskarEichler",
+      "name": "Oskar Eichler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62393985?v=4",
+      "profile": "https://songstats.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tobez",
+      "name": "Anton Berezin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63679?v=4",
+      "profile": "http://www.tobez.org/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "alexcroox",
+      "name": "Alex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1065835?v=4",
+      "profile": "https://alexcrooks.me",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
